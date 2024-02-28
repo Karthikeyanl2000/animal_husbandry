@@ -1,0 +1,1 @@
+ E:\\FGTS\\Animal\ Husbandry\ Source\\animal_husbandry\\.dart_tool\\flutter_build\\c685af07005e61a48723c2916f6196ce\\native_assets.yaml: 

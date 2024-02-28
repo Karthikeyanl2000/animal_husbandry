@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059025988964",
+    "project_id": "animal-husbandry-2023",
+    "storage_bucket": "animal-husbandry-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059025988964:android:9f79db3c845457ea1e5e71",
+        "android_client_info": {
+          "package_name": "com.example.animal_husbandry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0s3fgGzcQR8MkfnZAMR9lAkxhsYQIpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
